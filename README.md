@@ -1,0 +1,2 @@
+# SeatingPlanner
+Seating plan creator
